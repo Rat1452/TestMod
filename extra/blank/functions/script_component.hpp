@@ -1,0 +1,1 @@
+#include "\z\rsfd\addons\blank\script_component.hpp"

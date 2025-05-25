@@ -1,0 +1,7 @@
+name = "" //Replace with the name of your mod
+author = "" //Replace with the Name of your dev team
+prefix = "" //The prefix you will use for your classnames
+mainprefix = "z" //this should be the starting folder for your filepaths, typically left as Z
+
+[hemtt.release]
+archive = false # Default: true
